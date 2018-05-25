@@ -4,9 +4,13 @@
 En este caso, en la barriada de El Palo, estas obras tienen como objeto unificar distintas redes de baldeo que ya existen en la zona, y para ello ha adjudicado el contrato a [Sardalla Española S.A.](http://www.sardesa.com/), que ya ejecutó la Red de Baldeo de San Andrés y ha colaborado en numerosas ocasiones con EMASA. 
 
 
-![Image](http://www.sardesa.com/wp-content/uploads/2013/07/logo1.png)![Image](https://www.emasa.es/wp-content/themes/twentyeleven/img/34.png)
+![Image](http://www.sardesa.com/wp-content/uploads/2013/07/logo1.png)   ![Image](https://www.emasa.es/wp-content/themes/twentyeleven/img/34.png)
 
+En esta página se irá informando del desarrollo de las obras según se vayan ejecutando.
 
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/redbaldeoelpalo/redbaldeoelpalo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ```
 You can use the [editor on GitHub](https://github.com/redbaldeoelpalo/redbaldeoelpalo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
