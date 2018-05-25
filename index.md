@@ -1,10 +1,3 @@
-# Ampliación de la red de baldeo de El Palo
----
-title: This is my title
-layout: post
----
-
-Here is my page.
 ## Ampliación de la red de baldeo de El Palo
 
 <div style="text-align:center"><img src ="https://lh3.googleusercontent.com/cOVU5ci0wsRXY-0spE8uMqMbChr19_HmYUvuBG-lgdaMcSEVH0DxbHyZBFX_x9wy37Rsq7A7HI4lCcPnyuqwEG6iFVhHMbyda2H6N9ovzAp7TJRHfOO2C9TPKQbA9rZHz18Xo_Q6Rl3FZxbu2I2J0SC2hYezDewDleyUr3DXllEiUV7S0P_fQp4Qkk7WTFwAAVnx3d6kJ_6D3mS62EgKSGVvwvNubRgg6849ImPPzdRIhssPCbkuv9EusBjNiV3kQ_8CTUmCjNn6WxRgz1K6OIWsNm7DZLTcDMvlxWkFboVhp8vkSvY9RddRaQuUF4NBJwNAl1AE2dmqltb3Bs4cKK5uMvW4tB9srltvd7OR8_hF2IRismYvNGyRR3VvNABqAFDoMCCb6ugwk-HKD8ZRIDDUFtD6wn4pQGNmU7Ku6uWklPHkjrb6DQasbv3DBiruF6AKADjMF3Td86iUOM20kR6ZA9f1ukbycsUWsZcEoDyye7L4NHuPG8NPcp-4efIpKP7uJVPdXfF-XhKtBTYP1sAxveNj0Ky3_0mYojuCa25wzQPVXigBQDr3uZM-btMWoIa7KvnPp7tCwaM59Hzmg0bFlrWZuCviKKy1UQ=w1600-h666-no" /></div>
