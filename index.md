@@ -8,8 +8,8 @@ En este caso, en la barriada de El Palo, estas obras tienen como objeto unificar
 
 En esta página se irá informando del desarrollo de las obras según se vayan ejecutando.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Sardesa](http://www.sardesa.com/wp-content/uploads/2013/07/logo1.png)
+Format: ![Sardesa](http://www.sardesa.com)
 
 ### Jekyll Themes
 
