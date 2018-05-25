@@ -1,4 +1,6 @@
 ## Ampliación de la red de baldeo de El Palo
+[EMASA](https://www.emasa.es/), la Empresa Municipal de Aguas de Málaga, ha venido desarrollando unas redes de agua a presión destinadas al baldeo y limpieza de las calles, avenidas y plazas del municipio de Málaga. Estas redes aprovechan  aguas no potables, como las existentes bajo el mercado municipal de El Palo o como las existentes en el Arroyo Jaboneros.
+En este caso, en la barriada de El Palo, estas obras tienen como objeto unificar distintas redes de baldeo que ya existen en la zona, y para ello ha adjudicado el contrato a [Sardalla Española S.A.](http://www.sardesa.com/), que ya ejecutó la Red de Baldeo de San Andrés y ha colaborado en numerosas ocasiones con EMASA. 
 You can use the [editor on GitHub](https://github.com/redbaldeoelpalo/redbaldeoelpalo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
