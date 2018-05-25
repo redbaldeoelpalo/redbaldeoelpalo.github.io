@@ -8,7 +8,8 @@ En este caso, en la barriada de El Palo, estas obras tienen como objeto unificar
 
 En esta página se irá informando del desarrollo de las obras según se vayan ejecutando.
 
-<div style="text-align:center"><img src ="http://www.sardesa.com/wp-content/uploads/2013/07/logo1.png" /></div>
+<div style="text-align:center"><img src ="http://www.sardesa.com/wp-content/uploads/2013/07/logo1.png" /></div> <div style="text-align:center"><img src ="https://www.emasa.es/wp-content/themes/twentyeleven/img/34.png" /></div>
+
 
 ### Jekyll Themes
 
