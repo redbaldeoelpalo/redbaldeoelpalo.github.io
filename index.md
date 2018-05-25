@@ -8,7 +8,7 @@ En este caso, en la barriada de El Palo, estas obras tienen como objeto unificar
 
 En esta página se irá informando del desarrollo de las obras según se vayan ejecutando.
 
-<div style="text-align:center"><img src ="http://www.sardesa.com/wp-content/uploads/2013/07/logo1.png" /></div> <div style="text-align:center"><img src ="https://www.emasa.es/wp-content/themes/twentyeleven/img/34.png" /></div>
+<div style="text-align:center"><img src ="https://lh3.googleusercontent.com/94rGAGMT_M3R_rURpqyZaFKVD7ma5IoT32nM4EZhWYVLpviS-cKK3y_8LJYvxftRdqsfctdePSrZR4-gNO0kZtgJahjZmY-7YbuMNo2A8YgSHJtBfDKW_Iq269x_9SMF4xdUy_X9C1qcSJ7jB6WAAYqBn0RlJUpHJTYl4G8RoHdZuPFzUDVV-D6pw3vEHlBGGDMAPGhvwUc-lv4EaxN8Zs5mGgDiGOK0V-UlXZm7c_SQOHdZniYzofTr1hEWG_fC0ujfxyjyCr1U2JZ4bk960xUrmPSsDzrLNUyvnHOnnt2ZSVsMOUuxUcmxaEnghSig6R0leOzCIsWb1hj0Mj7ypF8W6ssZ_cICCRWV6Yq7U6z9Q2CuVpYdS-nRwnrzw0oHG4Y7QpjdWW_W35gzw5cYq73g9DivBUoGIqWeGDA0Ss5CjoIcqxSKFYiQciVM7cHAznyhJw_npp6-L0eu8OEj89UyzCGvfOE_2DhBTA-4nBZzsQ8s-b3flRpPXi-8Wp_NNHTRqnNIfytfGmvan2gAopM_4XaGhMxRShTivxI1xbwPGcoHB_mi_he-D6rsjUbBUeNduaWGSApo4pC9zQ93pKgpp0HhSy4gokv0rw=s250-k-rw-no" /></div> <div style="text-align:center"><img src ="https://www.emasa.es/wp-content/themes/twentyeleven/img/34.png" /></div>
 
 
 ### Jekyll Themes
