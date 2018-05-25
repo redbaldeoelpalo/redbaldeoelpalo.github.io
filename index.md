@@ -9,9 +9,10 @@ En este caso, en la barriada de El Palo, estas obras tienen como objeto unificar
 
 En esta página se irá informando del desarrollo de las obras según se vayan ejecutando.
 
-### Jekyll Themes
+### Situación de las Obras
+<div style="text-align:center"><img src ="https://lh3.googleusercontent.com/P42CqoSGerylEoRHf6ZXuR85dBCvrKMDBzbwQyP6tn6Inu5SmCpGUsYBggDG1s7vk5_hhLU0-oDt7ZrGiRo34f9Ns6e57ObrwJsMz6GXzsZ5DSS3rnxm3htl_tkC1kseYRX10rGS0jg0xnGwYct81Sad8MKPNYnQ_GV0qV_xa5bkIY34qeGu36oIEooKplykN-R-vfcj3BFBxSPuOrEqQineEruLz-78FDaFAS53YqJxcX3HE4NovTUlnxla85BNkaaC5JilSjMDhybhpJ4lZtsszBKGpzpPvWg3J-PaSLyVyk7_IU7mo0hDBaaa0DvWajU5gov7h0dcqJO4O6KySDNrDn-Juv7IvlfQz4xCjpcryrb7LH3gr7fc9un57pjK7j4lyd2RgLW7PhRxnB6jPYNOq_A-juwM_x3gsGVamOYovWDnM5gePUOQemeNmQjKeGNgeiZUKKulovRrZJXW7pvJu6gmI-HSR-yyqWsF_QthCuC8fBYVj45aEgi9o4sGOHqp4pm5uEAt5yCx8yrHdCLY8TsiPtIOwGDfX4N4-jGT-2-Z6ZkZ1GaHerXUdPXNzLPQiYvYxX9QnUFpWbFfYsq4jqoC_M1nHaPSkg=w1175-h691-no" /></div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/redbaldeoelpalo/redbaldeoelpalo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ```
 You can use the [editor on GitHub](https://github.com/redbaldeoelpalo/redbaldeoelpalo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
