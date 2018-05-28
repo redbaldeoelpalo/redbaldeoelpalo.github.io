@@ -1,4 +1,3 @@
-# Ampliación de la red de baldeo de El Palo
 ---
 title: This is my title
 layout: post
