@@ -19,6 +19,13 @@ En esta página se irá informando del desarrollo de las obras según se vayan e
 
 <div style="text-align:center"><img src ="https://drscdn.500px.org/photo/259855271/m%3D2048/v2?user_id=26634187&webp=true&sig=41e459fef25cf0ca14b34b06e07b4a9ed160584398b8834f975c890a144dc3e1" /></div>
 
+### Plano del área de actuación.
 
+<div style="text-align:center"><img src ="https://drscdn.500px.org/photo/262254933/q%3D80_m%3D2000/v2?webp=true&sig=719979bc6d71f8f814b8d02c21f16d431a2257c2fd62fc2153c408f1bfb51e68" /></div>
 
+## Comienzo de las obras.
 
+Las obras de la Ampliación de la Red de Baldeo de El Palo darán comienzo el próximo lunes 18 de Junio de 2018, teniendo una duración aproximada de 2,5 meses.
+Se comenzará por la calle Mar, como se puede ver en la siguiente imagen.
+
+<div style="text-align:center"><img src ="https://drscdn.500px.org/photo/262254931/q%3D80_m%3D1000_k%3D1/v2?webp=true&sig=f51dc47bb94b2255ab5502d589efa667939ce3a1b7756c361ae56567c9e671ac" /></div>
