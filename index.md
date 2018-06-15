@@ -1,6 +1,6 @@
 ## Ampliación de la red de baldeo de El Palo
 
-<div style="text-align:center"><img src ="https://drscdn.500px.org/photo/259854173/m%3D2048/v2?user_id=26634187&webp=true&sig=6a3ea70256b84bb9014da6c358e64511be54a2f16d87ee2d7133cf62454f602d" /></div>
+<div style="text-align:center"><img src ="https://drscdn.500px.org/photo/262255213/q%3D80_m%3D2000/v2?user_id=26634187&webp=true&sig=dfc4422efb205e95a4ca8e7e46b5a30da8bb177b9ba07d37a9962983f93ddec5" /></div>
 
 [EMASA](https://www.emasa.es/), la Empresa Municipal de Aguas de Málaga, ha venido desarrollando unas redes de agua a presión destinadas al baldeo y limpieza de las calles, avenidas y plazas del municipio de Málaga. Estas redes aprovechan  aguas no potables, como las existentes bajo el mercado municipal de El Palo o como las existentes en el Arroyo Jaboneros.
 
