@@ -35,9 +35,13 @@ Se comenzará por la calle Mar, como se puede ver en la siguiente imagen.
 Estimados vecinos, el próximo lunes 25 de junio de 2018 continuarán las obras de APROVECHAMIENTO DE LOS RECURSOS SUBTERRANEOS. DISTRITO MUNICIPAL Nº 2 EL PALO. AMPLIACIÓN DE LA RED DE BALDEO DE LA BARRIADA DE EL PALO, la cual tendrá, como ya hemos mencionado, una duración aproximada de dos meses y medio.
 
 Las obras de esta semana afectarán a las siguientes calles:
+
   -Calle Mar, hasta su encuentro con la Avenida Salvador Allende.
+  
   -Calle Ortega Munila, desde su comienzo en la calle Mar hasta la Avenida de la Estación de El Palo.
+  
   -Calle Alonso Carrillo de Albornoz hacia el norte, desde la calle Ortega Munilla hasta su encuentro con la Calle Miguel Moya.
+  
 
 <div style="text-align:center"><img src ="https://drscdn.500px.org/photo/263185335/q%3D80_m%3D2000/v2?user_id=26634187&webp=true&sig=f12193808bdaa7a803b45b38154e6195ab9dcfc25ab1a07c7cc5b3d2f448a56b" /></div>
 
