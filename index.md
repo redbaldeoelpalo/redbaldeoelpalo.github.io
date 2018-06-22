@@ -38,7 +38,7 @@ Las obras de esta semana afectarán a las siguientes calles:
 
   -Calle Mar, hasta su encuentro con la Avenida Salvador Allende.
   
-  -Calle Ortega Munila, desde su comienzo en la calle Mar hasta la Avenida de la Estación de El Palo.
+  -Calle Ortega Munilla, desde su comienzo en la calle Mar hasta la Avenida de la Estación de El Palo.
   
   -Calle Alonso Carrillo de Albornoz hacia el norte, desde la calle Ortega Munilla hasta su encuentro con la Calle Miguel Moya.
   
