@@ -53,5 +53,27 @@ Se les irá informando con carteles en torno a las obras, mediante esta web y me
 
 Les agradecemos su colaboración y les pedimos disculpas por las molestias que podamos ocasionar. Desde la empresa constructora SARDALLA ESPAÑOLA, S.A. nos comprometemos a realizar los trabajos tratando de evitar en el mayor grado posible las molestias que les podamos ocasionar.
 
+## Semana II de la Ampliación de la Red de Baldeo de El Palo
 
+Estimados vecinos, les informamos que el próximo lunes día 2 de julio de 2018 continuarán las obras de APROVECHAMIENTO DE LOS RECURSOS SUBTERRÁNEOS. DISTRITO MUNICIPAL Nº 2 EL PALO. AMPLIACION DE LA RED DE BALDEO DE LA BARRIADA DE EL PALO, la cual tiene una duración aproximada de 2,5 meses.
+
+El objetivo de las obras es ampliar las redes de baldeo existentes en el barrio, unificando las redes ya existentes, y permitiendo situar nuevas bocas de baldeo a zonas donde no existían.
+
+En la siguiente imagen pueden observar las zonas a ejecutar la semana del 2 al 8 de julio:
+
+<div style="text-align:center"><img src ="https://drscdn.500px.org/photo/263924929/q%3D80_m%3D2000/v2?webp=true&sig=4696de4df355952bb81a08016661e844c6abf3d5b3914d5c119cb7f6e4400471" /></div>
+
+-Avenida Juan Sebastián Elcano, desde Avenida de la Estación hasta la Calle Mar.
+
+-El tramo más próximo de la Avenida de la Estación de El Palo a la Avenida Juan Sebastián Elcano.
+
+-El tramo más próximo de la Calle Mar a la Avenida Juan Sebastián Elcano, desde la instersección con la calle Miguel Moya hacia el norte.
+
+Se les solicita que durante el periodo de ejecución de la Red de Baldeo en esta zona no aparquen en las zonas que se indiquen con "prohibido aparcar por obras" igualmente, los carriles de dichas vías sufrirán ocupaciones parciales con estrechamientos.
+
+Les solicitamos que por favor, antes del LUNES 2 DE JULIO retiren todos los vehículos de los aparcamientos en los que esté marcado como zona afectada por las obras e intenten tomar itinerarios alternativos para evitar las obras.
+
+Se les irá informando con carteles en torno a las obras, mediante esta web y mediante nuestra página de Facebook https://www.facebook.com/ampliacionbaldeoelpalo/
+
+Les agradecemos su colaboración y les pedimos disculpas por las molestias que podamos ocasionar. Desde la empresa constructora SARDALLA ESPAÑOLA, S.A. nos comprometemos a realizar los trabajos tratando de evitar en el mayor grado posible las molestias que les podamos ocasionar.
 
