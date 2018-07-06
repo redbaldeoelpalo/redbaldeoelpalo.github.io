@@ -71,7 +71,19 @@ En la siguiente imagen pueden observar las zonas a ejecutar la semana del 2 al 8
 
 Se les solicita que durante el periodo de ejecución de la Red de Baldeo en esta zona no aparquen en las zonas que se indiquen con "prohibido aparcar por obras" igualmente, los carriles de dichas vías sufrirán ocupaciones parciales con estrechamientos.
 
-Les solicitamos que por favor, antes del LUNES 2 DE JULIO retiren todos los vehículos de los aparcamientos en los que esté marcado como zona afectada por las obras e intenten tomar itinerarios alternativos para evitar las obras.
+
+## Semana IV y V de la Ampliación de la Red de Baldeo de El Palo
+
+Estimados vecinos, les informamos que el próximo lunes día 9 de julio de 2018 continuaran las obras de APROVECHAMIENTO DE LOS RECURSOS SUBTERRANEOS. DISTRIO MUNICIPAL Nº 2 EL PALO. AMPLIACION DE LA RED DE BALDEO DE LA BARRIADA DE EL PALO, la cual tiene una duración aproximada de 2 meses.
+Las obras pretenden la Ampliación de las redes de Baldeo existentes en la Barriada, unificando los tramos existentes y permitiendo llegar con nuevas bocas de baldeo a zonas donde aún no se había llegado.
+En el siguiente plano se ven las zonas a ejecutar:
+
+<div style="text-align:center"><img src ="https://drscdn.500px.org/photo/264962559/q%3D80_m%3D2000/v2?user_id=26634187&webp=true&sig=4a35940b467f6dfa1f09e09c99895690d34b1816103da092764c7f9759773e80" /></div>
+
+Las obras van a continuar por CALLE ALONSO CARRILLO DE ALBORNOZ, AVDA. ESTACION DE EL PALO Y AVDA. SALVADOR ALLENDE por lo que durante el periodo de ejecución de la Red de Baldeo en esa zona no estará permitido aparcar en las zonas que se indiquen con prohibido aparcar por obras y los carriles sufrirán ocupaciones parciales con estrechamientos.
+Les solicitamos que por favor, antes del día 9 de julio retiren todos los vehículos de los aparcamientos en los que esté marcado como zona afectada por las obras e intenten tomar itinerarios alternativos para evitar las obras.
+
+La próxima semana, del 16 al 22 de julio, las obras proseguirán por la misma zona.
 
 Se les irá informando con carteles en torno a las obras, mediante esta web y mediante nuestra página de Facebook https://www.facebook.com/ampliacionbaldeoelpalo/
 
