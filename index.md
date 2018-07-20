@@ -89,3 +89,6 @@ Se les irá informando con carteles en torno a las obras, mediante esta web y me
 
 Les agradecemos su colaboración y les pedimos disculpas por las molestias que podamos ocasionar. Desde la empresa constructora SARDALLA ESPAÑOLA, S.A. nos comprometemos a realizar los trabajos tratando de evitar en el mayor grado posible las molestias que les podamos ocasionar.
 
+## Última semana de la Ampliación de la Red de Baldeo de El Palo
+Los trabajos que se realizarán la semana próxima, a partir del lunes 23 de Julio, van a consistir en la realización de pruebas de funcionamiento y de remates. Tras estos trabajos procederemos a dar la actuación por finalizada.
+La semana próxima llegará a su fin las obras para la Ampliación de la Red de Baldeo de El Palo. Disculpen las molestias causadas y les agradecemos su comprensión durante los trabajos realizados.
